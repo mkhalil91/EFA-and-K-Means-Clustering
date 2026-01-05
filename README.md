@@ -1,5 +1,4 @@
 # EFA-and-K-Means-Clustering
-This repository contains the R source code required to replicate the statistical analysis presented in the research paper: **"Exploring Attitudinal Cluster Behaviour for EV-enabled Actions During Emergencies"**.
 
 ## Overview
 
